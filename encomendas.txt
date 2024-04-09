@@ -1,0 +1,30 @@
+
+#############################
+Código de cliente: 12 || Nome: Joao || NIF: 240556448
+Nome do artigo: SapatoX
+Quantidade(pares): 2
+Tamanho: 41
+Preço mão de obra = 20.00€
+Preço do custo fixo = 6.00€
+Margem de lucro = 7.80€
+Preco total = 33.80€
+
+#############################
+Código de cliente: 15 || Nome: Ana || NIF: 231556778
+Nome do artigo: SandaliaY
+Quantidade(pares): 5
+Tamanho: 37
+Preço mão de obra = 35.00€
+Preço do custo fixo = 13.12€
+Margem de lucro = 9.62€
+Preco total = 57.75€
+
+#############################
+Código de cliente: 22 || Nome: Carloz || NIF: 213445779
+Nome do artigo: BotaZ
+Quantidade(pares): 3
+Tamanho: 40
+Preço mão de obra = 36.00€
+Preço do custo fixo = 9.00€
+Margem de lucro = 18.00€
+Preco total = 63.00€

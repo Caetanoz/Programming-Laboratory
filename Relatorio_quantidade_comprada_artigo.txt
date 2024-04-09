@@ -1,0 +1,15 @@
+ -----------------------
+ Nome do artigo -> SapatoX 
+ Preco do artigo -> 16.90 
+ Tipo do artigo -> Sapato 
+ Quantidade comprada -> 2 
+ -----------------------
+ Nome do artigo -> SandaliaY 
+ Preco do artigo -> 12.87 
+ Tipo do artigo -> Sandália 
+ Quantidade comprada -> 5 
+ -----------------------
+ Nome do artigo -> BotaZ 
+ Preco do artigo -> 22.05 
+ Tipo do artigo -> Bota 
+ Quantidade comprada -> 3 

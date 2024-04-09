@@ -1,0 +1,18 @@
+-----------------------
+Id do artigo -> 11 
+Nome do artigo -> SapatoX 
+Preco do artigo (um par tamanho 41)-> 16.90 
+Tipo do artigo -> Sapato 
+Total a pagar : 33.80 € 
+-----------------------
+Id do artigo -> 22 
+Nome do artigo -> SandaliaY 
+Preco do artigo (um par tamanho 41)-> 12.87 
+Tipo do artigo -> Sandália 
+Total a pagar : 57.75 € 
+-----------------------
+Id do artigo -> 33 
+Nome do artigo -> BotaZ 
+Preco do artigo (um par tamanho 41)-> 22.05 
+Tipo do artigo -> Bota 
+Total a pagar : 63.00 € 

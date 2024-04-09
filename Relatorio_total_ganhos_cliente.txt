@@ -1,0 +1,12 @@
+################################ 
+Cliente Joao com nif 240556448 
+||||||| 
+Total de gastos : 33.80 € 
+################################ 
+Cliente Ana com nif 231556778 
+||||||| 
+Total de gastos : 57.75 € 
+################################ 
+Cliente Carloz com nif 213445779 
+||||||| 
+Total de gastos : 63.00 € 
